@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @lucasmarshall
-- 👀 I’m interested in new opportunities.
-- 💞️ I’m looking to collaborate on new companies
 - 📫 How to reach me: lmarshall@hey.com
 
 <!---
