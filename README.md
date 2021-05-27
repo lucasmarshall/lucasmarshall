@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lucasmarshall
-- 📫 How to reach me: lmarshall@hey.com
+- 📫 How to reach me: lucas.marshall@gmail.com
 
 <!---
 lucasmarshall/lucasmarshall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
