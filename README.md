@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @lucasmarshall
-- 📫 How to reach me: lucas.marshall@gmail.com
+- I'm the Founding Engineer @ Supergrain
+- 📫 How to reach me: lucas@supergrain.com
 
 <!---
 lucasmarshall/lucasmarshall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
