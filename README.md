@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lucasmarshall
-- I'm the Founding Engineer @ Supergrain
+- I'm a Founding Engineer @ Supergrain
 - 📫 How to reach me: lucas@supergrain.com
 
 <!---
