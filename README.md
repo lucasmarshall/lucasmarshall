@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lucasmarshall
-- I'm a Founding Engineer @ [Supaglue](https://supaglue.com/)
+- I'm Founding Engineer @ [Supaglue](https://supaglue.com/)
 - 📫 How to reach me: lucas@supaglue.com
 
 <!---
