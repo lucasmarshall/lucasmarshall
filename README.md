@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lucasmarshall
-- I'm Founding Engineer @ [Supaglue](https://supaglue.com/)
-- 📫 How to reach me: lucas@supaglue.com
+- 📫 How to reach me: lucas.marshall@gmail.com
 
 <!---
 lucasmarshall/lucasmarshall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
